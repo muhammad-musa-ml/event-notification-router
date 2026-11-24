@@ -1,7 +1,7 @@
-# whova-notification-router
+# event-notification-router
 
 A small prototype of the part of an event app that decides when a phone should buzz. I wrote it after
-reading the App Store reviews of the Whova app ([whova-review-study](https://github.com/muhammad-musa-ml/whova-review-study)):
+reading the App Store reviews of the Whova app ([event-app-review-study](https://github.com/muhammad-musa-ml/event-app-review-study)):
 of the 38 reviews rated one to three stars among the 500 newest, 14 are about notifications. In seven
 of those the reviewer says the messages came from Whova itself (tips on using the app, promotion of the
 app), two say they wanted the conference's notifications and not Whova's, and one got alerts at 5 AM and
